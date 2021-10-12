@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ciao 👋
 
 I'm a UK-based Computer Science student currently on an industrial placement year ^_^
 
