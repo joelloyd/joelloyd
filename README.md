@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a second year Computer Science student studying at Loughborough University :)
+I'm a UK-based Computer Science Student currently on an industrial placement year ^_^
 
 Current interests include:
   - Linux
