@@ -5,5 +5,5 @@ I'm a UK-based Computer Science student currently on an industrial placement yea
 Current interests include:
   - Linux
   - JavaScript
-  - ReactJS
+  - Generative Art
   - Web Development
