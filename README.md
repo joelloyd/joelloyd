@@ -1,8 +1,8 @@
 ### Hello 👋
 
-I'm a UK-based Computer Science student currently in my final year.
+I'm a UK-based Computer Science student currently in my final year at university.
 
 Current interests include:
-  - Linux
+  - Linux Systems
   - Web Development
-  - Docker
+  - Virtualisation
