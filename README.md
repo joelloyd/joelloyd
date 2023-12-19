@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm a UK-based Computer Science student currently in my final year at university.
+I'm a UK-based Computer Science graduate currently working in Digital Forensics 🔎
 
 Current interests include:
   - \*nix Systems
