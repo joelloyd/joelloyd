@@ -1,8 +1,3 @@
 ### Hello 👋
 
-I'm a UK-based Computer Science graduate currently working in Digital Forensics 🔎
-
-Current interests include:
-  - \*nix Systems
-  - Web Development (particularly with [Svelte](https://svelte.dev/))
-  - Content Recommendation Systems
+I'm a fellow current working in Digital Forenics. Currently enjoying tinkering with Svelte projects in my spare time.
